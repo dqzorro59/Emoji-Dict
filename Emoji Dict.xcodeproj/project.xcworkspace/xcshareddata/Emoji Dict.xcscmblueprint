@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "21ABA93501AEF9869861207F74AD7F2E71968232",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "21ABA93501AEF9869861207F74AD7F2E71968232" : 9223372036854775807,
+    "C670C6474B8F2331BFE4A3657956AEA1E133C2BE" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6D3F53C8-0FA7-4113-81CC-E4C3E6D04DA7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "21ABA93501AEF9869861207F74AD7F2E71968232" : "Emoji%20Dict\/",
+    "C670C6474B8F2331BFE4A3657956AEA1E133C2BE" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Emoji Dict",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Emoji Dict.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dqzorro59\/Emoji-Dict.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21ABA93501AEF9869861207F74AD7F2E71968232"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dqzorro59\/swiftapp2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C670C6474B8F2331BFE4A3657956AEA1E133C2BE"
+    }
+  ]
+}
